@@ -101,9 +101,9 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.25.187:8081//repository/paypal-snapshot//</url>
+	      <id>jenkdock</id>
+	      <name>jenkdock </name>
+	      <url>http://54.82.22.110:4000/content/repositories/jenkdock//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
